@@ -6,7 +6,10 @@ This project is completed as part of the course curriculum of [Big Data and Clou
 
 **Completed LAB:** [Laboratory](https://kmohamedalie.github.io/DTM-BigData-Cloud-AWS/)
 
+**Notebook:** [Link](https://github.com/Kmohamedalie/DTM-BigData-Cloud-AWS/blob/master/DTM-Bigdata-LAB/03_DL2DWH_FinaLab.ipynb)
+
 **Technologies used:**
  - [AWS](https://aws.amazon.com/)
 -  [Jupyter Notebook](http://jupyter.org/)
+-  [Tableau](https://www.tableau.com/)
 -  [Python and data science packages](https://www.datacamp.com/blog/top-python-libraries-for-data-science)
