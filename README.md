@@ -13,3 +13,5 @@ This project is completed as part of the course curriculum of [Big Data and Clou
 -  [Jupyter Notebook](http://jupyter.org/)
 -  [Tableau](https://www.tableau.com/)
 -  [Python and data science packages](https://www.datacamp.com/blog/top-python-libraries-for-data-science)
+-  [PostgresSQL](https://www.postgresql.org/)
+-  [AWS Sage Maker](https://aws.amazon.com/sagemaker/)
