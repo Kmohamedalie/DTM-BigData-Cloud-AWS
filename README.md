@@ -10,7 +10,7 @@ This project is completed as part of the course curriculum of [Big Data and Clou
  
 **Technologies used:**
  - [AWS cloud](https://aws.amazon.com/)
- -  [AWS Sage Maker](https://aws.amazon.com/sagemaker/)
+ -  [AWS Sage Maker](https://aws.amazon.com/sagemaker/) 
  -  [Jupyter Notebook](http://jupyter.org/)
  -  [Tableau](https://www.tableau.com/)
  -  [Python and data science packages](https://www.datacamp.com/blog/top-python-libraries-for-data-science)
